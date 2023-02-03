@@ -1,10 +1,12 @@
-import React from "react";
-import Home from "./container/home"
+
+import Daalgavar from'./components/daalgavar'
+
 function App() {
   return (
-    <div>
-      <Home/>
-    </div>
+    <>
+    <Daalgavar/>
+    
+    </>
   );
 }
 
