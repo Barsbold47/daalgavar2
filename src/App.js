@@ -1,12 +1,10 @@
-
-import Daalgavar from'./components/daalgavar'
+import Home from"./components/home"
 
 function App() {
   return (
-    <>
-    <Daalgavar/>
-    
-    </>
+    <div>
+    <Home/>
+   </div>
   );
 }
 
